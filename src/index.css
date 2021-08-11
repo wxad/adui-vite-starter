@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
+    Arial, 'PingFang SC', 'Source Han Sans GB', sans-serif;
+}
+
+@tailwind components;
+@tailwind utilities;
