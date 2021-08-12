@@ -50,3 +50,5 @@ module.exports = {
 ```
 
 ## 按需打包的预期结果
+![image](https://user-images.githubusercontent.com/7429808/129224229-3975319a-1a1e-4c67-a84d-906c7e3f2039.png)
+
